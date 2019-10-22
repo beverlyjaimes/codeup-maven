@@ -47,6 +47,5 @@ public class Exercise {
         String streetAddress = faker.address().streetAddress(); // 60018 Sawayn Brooks Suite 449
 
         System.out.println(streetAddress);
-//        comment
     }
 }
